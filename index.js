@@ -3,7 +3,11 @@ const TeamDetails=()=>{
     
     const developer2='I am nayem hasan. I have completed my BSc. in computer science and engineering. Now i am a full stack web developer. In this project, My role is Frontend Developer.';
 
-    //todo developer-3 -> Write a description aboove tow developer; Here use stash.... 
+    const description=`For Our current project, we have haired tow developer Here is the short description to our developers.\n
+    
+    Developer1: ${developer1}\n
+    Developer2: ${developer2}
+    `
 
     //todo developer-4 -> console.log result;
 
