@@ -9,7 +9,9 @@ const TeamDetails=()=>{
     Developer2: ${developer2}
     `
 
-    //todo developer-4 -> console.log result;
+    console.log(`Here is the final result:
+             ${description}
+        `)
 
 }
 
